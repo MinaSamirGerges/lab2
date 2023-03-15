@@ -1,0 +1,26 @@
+.nav {
+    background-color:grey; 
+    list-style-type: none;
+  }
+
+ .nav li {
+  display: inline-block;
+  font-size: 20px;
+  color: aliceblue;
+  padding: 20px;
+          }
+
+.nav a:hover {background-color: red; }
+.nav a{text-decoration: none; }
+.footer{text-align: center; color: darkblue; font-weight: bold;}
+.d2 {text-align: center;}
+.p1{text-align: left;}
+.s2{color: red;font-style: italic;}
+
+.div2{text-align: center;}
+.div1{display: inline-block;}
+.table {background-color: burlywood;border-style: solid; border-color: darkmagenta; border-width: 3px; width: 70%;}
+.th{font-size: xx-large;}
+
+.td{text-align: right; background-color: brown;}
+tr{font-size: larger;}
